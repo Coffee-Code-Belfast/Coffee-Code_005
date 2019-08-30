@@ -1,5 +1,6 @@
 # Coffee&amp;Code#005: CSS Animations
 ### Created by Caroline Chan & Ciara Magee
+### Guest mentor: David Cutting
 
 ## CSS Animations
 
