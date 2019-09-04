@@ -45,9 +45,9 @@ Demo: https://codesandbox.io/s/bouncing-ball-r771w
 
 
 ### Optional! Can you:
--Increase the bounce speed?
--Make the ball bounce across the screen?
--Make multiple balls bounce at different speeds across the screen?
+* Increase the bounce speed?
+* Make the ball bounce across the screen?
+* Make multiple balls bounce at different speeds across the screen?
 
 
 
